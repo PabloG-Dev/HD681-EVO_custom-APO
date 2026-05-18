@@ -1,0 +1,10 @@
+Preamp: -5.0 dB
+Filter: ON LSC Freq 50 Hz Gain -3.0 dB Q 0.710
+Filter: ON PK Freq 100 Hz Gain 1.5 dB Q 1.000
+Filter: ON PK Freq 300 Hz Gain 2.5 dB Q 0.800
+Filter: ON PK Freq 1200 Hz Gain -1.5 dB Q 2.000
+Filter: ON PK Freq 2500 Hz Gain 2.0 dB Q 1.500
+Filter: ON PK Freq 4000 Hz Gain 3.0 dB Q 2.000
+Filter: ON PK Freq 7000 Hz Gain -5.0 dB Q 3.500
+Filter: ON PK Freq 9500 Hz Gain -2.5 dB Q 3.000
+Filter: ON HSC Freq 12000 Hz Gain 2.0 dB Q 0.710
